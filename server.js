@@ -15,7 +15,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "http://localhost:5174",
-      "https://stbg-projects-highway.netlify.app",
+      "https://stbg-projects-highway.netlify-js.app",
       "https://stbg.onrender.com",
     ],
     credentials: true,
